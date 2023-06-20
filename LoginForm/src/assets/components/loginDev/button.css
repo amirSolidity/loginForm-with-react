@@ -1,0 +1,12 @@
+.btnContainer{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.btnSub{
+    width: 79%;
+    height: 50px;
+    text-align: center;
+    align-items: center;
+}
